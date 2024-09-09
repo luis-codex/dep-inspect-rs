@@ -2,7 +2,7 @@
 
 `pack-analyzer.npmjs` es una herramienta para analizar dependencias de paquetes en proyectos de Node.js. Permite obtener información sobre las dependencias de un archivo local, un repositorio remoto de GitHub o paquetes en línea.
 
-## preview photo ./captures/preview.png
+## preview 
 
 ![preview](/.captures/capture.png)
 
